@@ -1,0 +1,48 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+
+
+* col{
+    box-sizing: border-box;
+}
+
+.main-nav {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background-color: rgb(255, 187, 0);
+}
+
+h1 {
+    background-color: rgb(255, 187, 0);
+}
+
+div {
+    background-color:rgb(251, 183, 152);
+}
+        
+p {
+    background-color: lemonchiffon;
+}
+
+h2 {
+    background-color:yellow
+}
+
+body {
+    background-image: url("../img/garena-free-fire-live-gaming-qzmezptdskwnj9cr.webp");
+    background-repeat: repeat;
+    background-attachment: unset;
+    background-position: center;
+    background-size: cover;
+}
+
+body {
+    font-family: 'Slackey';font-size: medium;
+}
+
+.main-nav ul li {
+    display: inline-block;
+}
+    
